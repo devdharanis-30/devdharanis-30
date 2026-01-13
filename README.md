@@ -23,7 +23,7 @@
 
 - 🎓 BE Computer Science (cyber security) Student  
 - 🚀 Passionate about Web Development & Software Engineering  
-- 🧠 Building projects using **HTML, CSS, JavaScript, React, Next.js**
+- 🧠 Building projects using **HTML, CSS, JavaScript, React,MySql**
 - 📬 Open to internships, entry-level roles & freelance work  
 
 ---
