@@ -41,7 +41,7 @@
 
 - 🔹 **Cricket Quiz Battle App**  
   🛠 HTML | CSS | JavaScript | JSON  
-  🔗 https://github.com/devdharanis-30/cricket-quiz-app  
+  🔗 https://github.com/devdharanis-30/bat-brain.git  
 
 - 🔹 **BookSky – Book Management App**  
   🛠 HTML | CSS | JavaScript  
