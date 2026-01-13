@@ -5,7 +5,7 @@
 <h2 align="center">👋 Hi, I'm Dharanish</h2>
 
 <p align="center">
-💻 Aspiring Software Engineer | 🌐 Web Developer | ☁️ Cloud & DevOps Enthusiast
+          💻 Aspiring Software Engineer | 🌐 Web Developer 
 </p>
 
 <p align="center">
@@ -21,9 +21,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student  
+- 🎓 BE Computer Science (cyber security) Student  
 - 🚀 Passionate about Web Development & Software Engineering  
-- ☁️ Exploring Cloud, DevOps & scalable systems  
 - 🧠 Building projects using **HTML, CSS, JavaScript, React, Next.js**
 - 📬 Open to internships, entry-level roles & freelance work  
 
@@ -33,7 +32,7 @@
 
 - ✅ Strengthen DSA & core CS fundamentals  
 - 🌱 Build production-ready full-stack applications  
-- ☁️ Learn Azure / AWS fundamentals  
+- 🎯 2026 Goal: Secure a full-time Full Stack Developer role in a reputed technology-driven organization 
 - 🤝 Start contributing to Open Source  
 
 ---
@@ -42,15 +41,11 @@
 
 - 🔹 **Cricket Quiz Battle App**  
   🛠 HTML | CSS | JavaScript | JSON  
-  🔗 https://github.com/your-username/cricket-quiz-app  
+  🔗 https://github.com/devdharanis-30/cricket-quiz-app  
 
 - 🔹 **BookSky – Book Management App**  
   🛠 HTML | CSS | JavaScript  
-  🔗 https://github.com/your-username/booksky  
-
-- 🔹 **Stock Tracker (Frontend Only)**  
-  🛠 HTML | CSS | JavaScript  
-  🔗 https://github.com/your-username/stock-tracker  
+  🔗 https://github.com/devdharanis-30/booksky  
 
 ---
 
@@ -64,7 +59,6 @@
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
