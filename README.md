@@ -32,7 +32,7 @@
 
 - ✅ Strengthen DSA & core CS fundamentals  
 - 🌱 Build production-ready full-stack applications  
-- 🎯 2026 Goal: Secure a full-time Full Stack Developer role in a reputed technology-driven organization 
+- 🎯 Secure a full-time Full Stack Developer role in a reputed technology-driven organization 
 - 🤝 Start contributing to Open Source  
 
 ---
