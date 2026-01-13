@@ -45,7 +45,7 @@
 
 - 🔹 **BookSky – Book Management App**  
   🛠 HTML | CSS | JavaScript  
-  🔗 https://github.com/devdharanis-30/booksky  
+  🔗 https://github.com/devdharanis-30/my-project.git  
 
 ---
 
