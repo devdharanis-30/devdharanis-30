@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Welcome%20to%20Dharanish's%20GitHub!&fontSize=32&fontColor=ffffff" />
 </p>
 
-<h2 align="center">👋 Hi, I'm Dharanish</h2>
+<h2 align="center">👋 Hi, I'm Dharanis</h2>
 
 <p align="center">
   💻 Aspiring Software Engineer | 🌐 Full Stack Web Developer
