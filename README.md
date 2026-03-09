@@ -1,116 +1,154 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Welcome%20to%20Dharanis's%20GitHub!&fontSize=32&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<h2 align="center">👋 Hi, I'm Dharanis</h2>
+# Hey there, I'm Dharanis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<p align="center">
-  💻 Aspiring Software Engineer | 🌐 Full Stack Web Developer
-</p>
+</div>
 
-<p align="center">
-  <a href="https://x.com/DharanishRs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/devdharanis-30">
-    <img src="https://komarev.com/ghpvc/?username=devdharanis-30&style=for-the-badge"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Software+Engineering+Enthusiast;React+%26+Node.js+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🥷 About Me
+## <div style="background: linear-gradient(45deg, #0066ff 0%, #ff3333 100%); padding: 10px; border-radius: 10px; text-align: center; color: #fff; font-weight: bold; box-shadow: 0 0 20px rgba(0, 102, 255, 0.3);">About Me</div> 
 
-- 🎓 B.E. Computer Science (Cyber Security) Student  
-- 🚀 Passionate about Web Development & Software Engineering  
-- 🧠 Building projects using **HTML, CSS, JavaScript, React, Node.js, MySQL**  
-- 📬 Open to internships, entry-level roles & freelance opportunities  
+```bash
+$ whoami
+name: "Dharanis Subramani"
+role: "Full Stack Web Developer"
+location: "India"
 
----
+$ cat education.txt
+- "B.E Computer Science (Cyber Security)"
 
-## 💼 Internship Experience
+$ cat current_focus.txt
+- "Building scalable full stack web applications"
+- "Mastering React ecosystem"
+- "Improving Data Structures and Algorithms"
 
-**Full Stack Developer Intern**  
-🏢 EVOA Technology Pvt. Ltd. (Remote)  
-🗓️ Sep 2025 – Nov 2025  
+$ echo $MISSION
+"Transforming ideas into modern digital products"
 
-- Developed responsive and reusable UI components using **React** and **Tailwind CSS**
-- Integrated **RESTful APIs** and improved frontend–backend data flow
-- Worked with **Node.js** to enhance performance and modularity
-- Collaborated with cross-functional teams in an agile startup environment
-- Gained hands-on experience in real-world product development workflows
+$ echo $PHILOSOPHY  
+"Clean code, scalable systems, continuous learning"
 
----
+$ ls specialties/
+- "Frontend development with React"
+- "Backend APIs with Node.js"
+- "Responsive UI design"
+- "Full stack application development"
 
-## 🎯 2026 Goals
+$ fortune
+"I enjoy solving real world problems through code"
+```
 
-- ✅ Strengthen DSA & core CS fundamentals  
-- 🌱 Build production-ready full-stack applications  
-- 🎯 Secure a full-time Full Stack Developer role in a reputed technology-driven organization  
-- 🤝 Start contributing consistently to open-source projects  
+<br>
 
----
+<div align="center">
+<span style="background: linear-gradient(45deg, #0066ff 0%, #ff3333 100%); padding: 8px 20px; border-radius: 20px; color: #fff; font-weight: bold; font-size: 18px; display: inline-block; margin: 10px 0;">What Drives Me</span>
+</div>
 
-## 🚀 Featured Projects
+<div align="center">
 
-- 🔹 **Bat & Brain – Cricket Quiz App**  
-  🛠 React | JavaScript | CSS | JSON  
-  🔗 https://github.com/devdharanis-30/bat-brain  
+```diff
++ Problem Solver: Turning ideas into practical digital solutions
++ Full Stack Builder: Designing applications from UI to backend
++ Automation Mindset: Writing reusable and efficient code
++ Continuous Learner: Always exploring modern technologies
+```
 
-- 🔹 **BookSky – Online Book Management App**  
-  🛠 HTML | CSS | JavaScript  
-  🔗 https://github.com/devdharanis-30/my-project  
+</div>
 
----
+<div align="center">
+<span style="background: linear-gradient(45deg, #0066ff 0%, #ff3333 100%); padding: 8px 20px; border-radius: 20px; color: #fff; font-weight: bold; font-size: 18px; display: inline-block; margin: 10px 0;">Beyond Code</span>
+</div>
 
-## 🧰 Tech Stack
+<div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+> **"Life outside the editor..."**
+> 
+> **Cricket Enthusiast:** Enjoy watching and analyzing cricket  
+> **Tech Explorer:** Experimenting with modern web technologies  
+> **Creative Builder:** Turning ideas into useful applications  
+> **Continuous Learner:** Improving programming and problem solving skills  
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+</div>
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+--- 
 
----
+## <div style="background: linear-gradient(45deg, #0066ff 0%, #ff3333 100%); padding: 10px; border-radius: 10px; text-align: center; color: #fff; font-weight: bold; box-shadow: 0 0 20px rgba(0, 102, 255, 0.3);">Tech Arsenal</div>
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdharanis-30&show_icons=true&theme=tokyonight" />
-</p>
+| **Frontend Development** | **Backend Development** | **Database** |
+|:---:|:---:|:---:|
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | | |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdharanis-30&theme=tokyonight" />
-</p>
+| **Development Tools** | **Version Control** | **API & Testing** |
+|:---:|:---:|:---:|
+| ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) | |
 
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/devdharanis-30">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/dharanis-subramani-42732a255">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:dharanis.d38@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>✨ Thanks for visiting my GitHub profile! ✨</b>
-</p>
+<div align="center">
+<span style="background: linear-gradient(45deg, #0066ff 0%, #ff3333 100%); padding: 8px 20px; border-radius: 20px; color: #fff; font-weight: bold; font-size: 18px; display: inline-block; margin: 10px 0;">Featured Projects</span>
+</div>
+
+<div align="center">
+
+| **Project** | **Description** | **Tech Stack** | **Links** |
+|:---|:---|:---|:---:|
+| **Bat & Brain – Cricket Quiz App** | Interactive quiz platform with category based gameplay | `React` `JavaScript` `CSS` `JSON` | [GitHub](https://github.com/devdharanis-30/bat-brain) |
+| **BookSky – Book Management App** | Web app for managing personal book collections | `HTML` `CSS` `JavaScript` | [GitHub](https://github.com/devdharanis-30/my-project) |
+
+</div>
+
+---
+
+<div align="center">
+<span style="background: linear-gradient(45deg, #0066ff 0%, #ff3333 100%); padding: 8px 20px; border-radius: 20px; color: #fff; font-weight: bold; font-size: 18px; display: inline-block; margin: 10px 0;">GitHub Analytics</span>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devdharanis-30&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdharanis-30&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devdharanis-30&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## <div style="background: linear-gradient(45deg, #0066ff 0%, #ff3333 100%); padding: 10px; border-radius: 10px; text-align: center; color: #fff; font-weight: bold; box-shadow: 0 0 20px rgba(0, 102, 255, 0.3);">Let's Connect & Collaborate!</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharanis-subramani-42732a255)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharanis.d38@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devdharanis-30)
+
+</div>
+
+---
+
+<div align="center">
+  <br>
+  <h3><em><b>"Great software is built with curiosity, consistency, and creativity."</b></em></h3>
+  <br>
+  <p style="font-size: 18px; font-weight: bold; color: #36BCF7;">Building the future, one project at a time 🚀</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
